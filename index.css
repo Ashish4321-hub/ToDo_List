@@ -1,0 +1,27 @@
+body{
+  text-align: center;
+  background-image: url('mountain.jpg');
+  background-size: 100%;
+  padding: 20%;
+}
+.box{
+  background-color: #00000066;
+  border-radius: 1%;
+  color: white;
+  padding: 1%;
+}
+.inpt{
+  border-radius: 5%;
+  background-color: white;
+  max-width: 100%;
+}
+.inpt:hover{
+  background-color: black;
+  color: white;
+}
+.btn{
+  border-radius: 20%;
+  background-color: black;
+  color: aliceblue;
+  
+}
