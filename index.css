@@ -3,6 +3,7 @@ body{
   background-image: url('mountain.jpg');
   background-size: 100%;
   padding: 20%;
+  font-size: 30px;
 }
 .box{
   background-color: #00000066;
@@ -14,6 +15,7 @@ body{
   border-radius: 5%;
   background-color: white;
   max-width: 100%;
+  font-size: 25px;
 }
 .inpt:hover{
   background-color: black;
@@ -23,5 +25,9 @@ body{
   border-radius: 20%;
   background-color: black;
   color: aliceblue;
-  
+  font-size: 25px;
+}
+
+h1{
+  font-size: 70px;
 }
